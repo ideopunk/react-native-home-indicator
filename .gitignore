@@ -36,3 +36,5 @@ project.xcworkspace
 buck-out/
 \.buckd/
 *.keystore
+
+.vscode
